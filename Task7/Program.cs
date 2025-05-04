@@ -10,6 +10,12 @@ namespace Task7
     {
         static void Main(string[] args)
         {
+            NewMethod();
+
+        }
+
+        private static void NewMethod()
+        {
             try
             {
                 Console.Write("Birinci rəqəmi daxil edin: ");
@@ -35,7 +41,6 @@ namespace Task7
             }
 
             Console.WriteLine("Proqram bitdi.");
-
         }
     }
 }
