@@ -1,0 +1,7 @@
+C:\Users\Vivobook\OneDrive\Documents\Projects\Tasks\NET\Exercises8\bin\Debug\Exercises8.exe.config
+C:\Users\Vivobook\OneDrive\Documents\Projects\Tasks\NET\Exercises8\bin\Debug\Exercises8.exe
+C:\Users\Vivobook\OneDrive\Documents\Projects\Tasks\NET\Exercises8\bin\Debug\Exercises8.pdb
+C:\Users\Vivobook\OneDrive\Documents\Projects\Tasks\NET\Exercises8\obj\Debug\Exercises8.csproj.AssemblyReference.cache
+C:\Users\Vivobook\OneDrive\Documents\Projects\Tasks\NET\Exercises8\obj\Debug\Exercises8.csproj.CoreCompileInputs.cache
+C:\Users\Vivobook\OneDrive\Documents\Projects\Tasks\NET\Exercises8\obj\Debug\Exercises8.exe
+C:\Users\Vivobook\OneDrive\Documents\Projects\Tasks\NET\Exercises8\obj\Debug\Exercises8.pdb
